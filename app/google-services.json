@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "31248192063",
+    "firebase_url": "https://parkingdost-f5618-default-rtdb.firebaseio.com",
+    "project_id": "parkingdost-f5618",
+    "storage_bucket": "parkingdost-f5618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31248192063:android:bc26daad22c616fab0de8a",
+        "android_client_info": {
+          "package_name": "com.example.myclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31248192063-o1r1gah6v7d0p5lrfe5rbjenek9m0k4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDch8ITR818_YTY251sC6ntL0MdIzpXjFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31248192063-o1r1gah6v7d0p5lrfe5rbjenek9m0k4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31248192063:android:4c291b25913446feb0de8a",
+        "android_client_info": {
+          "package_name": "com.example.parkingdost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31248192063-o1r1gah6v7d0p5lrfe5rbjenek9m0k4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDch8ITR818_YTY251sC6ntL0MdIzpXjFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31248192063-o1r1gah6v7d0p5lrfe5rbjenek9m0k4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
